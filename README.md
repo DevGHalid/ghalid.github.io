@@ -1,3 +1,1 @@
-# ghalid.github.io
-
-<!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel=icon href=/favicon.ico><title>surve-vue</title><link href=/css/app.0c868b48.css rel=preload as=style><link href=/css/chunk-vendors.2f09def5.css rel=preload as=style><link href=/js/app.49d67ff9.js rel=preload as=script><link href=/js/chunk-vendors.9c170818.js rel=preload as=script><link href=/css/chunk-vendors.2f09def5.css rel=stylesheet><link href=/css/app.0c868b48.css rel=stylesheet></head><body><noscript><strong>We're sorry but surve-vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=/js/chunk-vendors.9c170818.js></script><script src=/js/app.49d67ff9.js></script></body></html>
+# Сайт
